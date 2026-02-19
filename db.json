@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "55d1",
+      "name": "Cristiano Batista Pessoa",
+      "email": "cristiano.1973.on@gmail.com",
+      "senha": "MTIzNDU2",
+      "createdAt": "2026-02-18T22:42:17.741Z",
+      "image": "https://avatars.githubusercontent.com/u/45184516?v=4"
+    },
+    {
+      "id": "8903",
+      "name": "Elizabeth Gomes da Silva",
+      "email": "eli@email.com",
+      "senha": "NjU0MzIx",
+      "createdAt": "2026-02-18T23:11:15.545Z",
+      "image": "https://avatars.githubusercontent.com/u/45184516?v=4"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Projeto de Redes SENAI",
+      "content": "Configurando labs..."
+    }
+  ]
+}
